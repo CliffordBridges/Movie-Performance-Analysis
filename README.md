@@ -42,4 +42,4 @@ by IMDB.
 3. Data processing/transformation scripts are being kept [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/src)
 4. You can re-run the entire project from the results notebook [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/notebooks/04_reports)
 5. The results of our analysis were presented as a powerpoint, which is now saved as a pdf under **"TFS Project 1_ Microsoft Movie Streaming Analysis.pdf"**
-6. Final Notebook [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/notebooks/04_reports)
+6. Final Notebook [here](https://mishaberrien.com/movie-performance-analysis/)
