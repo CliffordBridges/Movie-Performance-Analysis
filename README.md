@@ -8,7 +8,7 @@ In this project, we analyze movie data from the Internet Movie Database (IMDB) a
 |Name     |  Github Page   | Personal website |
 |---------|-----------------|------------------|
 |Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)        |
-|Cliff Bridges | [CliffordBridges](https://github.com/CliffordBridges) | --- |
+|Cliff Bridges | [CliffordBridges](https://github.com/CliffordBridges) | [www.cliffordbridges.github.io](https://cliffordbridges.github.io//) |
 
 ### Methods Used
 * Summary statistics
